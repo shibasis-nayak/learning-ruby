@@ -9,4 +9,4 @@ else
     puts("number is odd")
 
 #out put = number is even
-#          number is odd
+#          number is odd  
