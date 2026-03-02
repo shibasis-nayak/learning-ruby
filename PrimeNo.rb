@@ -23,5 +23,4 @@ else
 end
 
 #output =
-    #Enter a number:7
-    #7 is a Prime number
+  
