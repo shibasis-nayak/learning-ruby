@@ -9,11 +9,11 @@ if num <= 1
   prime = false
 else
   (2...num).each do |i|
-    if num % i == 0
-      prime = false
-      break
-    end
+if num % i == 0
+prime = false
+break
   end
+ end
 end
 
 if prime
