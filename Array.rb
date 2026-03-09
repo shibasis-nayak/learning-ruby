@@ -1,5 +1,6 @@
-arr = ['a', 'b', 'c']
-puts(arr[0])
-puts(arr[1])
-puts(arr[2])
-puts(arr[3])
+# array examples..........
+
+names = ["Ram", "Sita", "jaga", "raju"]
+
+puts names[1]
+puts names[3]
