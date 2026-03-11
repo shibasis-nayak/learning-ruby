@@ -8,8 +8,6 @@ def armstrong(num)
   
   sum == num
 end
-
-# Example usage
 print "Enter a number: "
 number = gets.to_i
 
