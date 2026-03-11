@@ -35,11 +35,11 @@ end
 
 p = Person.new("rahul", 25)
 
-p.name = "shiba"
+p.name = "siba"
 p.age = 26
 
 puts p.name
 puts p.age
 # out put = 
-# shiba
-# 26
+# siba
+# 26 
