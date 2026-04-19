@@ -12,3 +12,13 @@ max = num
 puts "Largest number: #{max}"
 
 # output = 99
+
+def find_smallest(arr)
+  smallest = arr[0]
+  arr.each do |num|
+    if num < smallest
+      smallest = num
+    end
+  end
+  smallest
+end
